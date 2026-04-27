@@ -1,0 +1,34 @@
+<style>
+ .bootstrap-start{
+  background-color: rgb(121,82,179);
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 120px;
+  height: 40px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 8px;
+ }
+ .bootstrap-download{
+  color:rgb(108,117,125);
+  background-color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  border-style: solid;
+  
+ }
+</style>
+
+<button class="bootstrap-start">
+  Get started
+</button>
+
+<button class="bootstrap-download">
+  Download
+</button>
