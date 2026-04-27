@@ -1,0 +1,15 @@
+<style>
+  .Amazon-button{
+    color: black;
+    background-color: rgb(255,216,20);
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+  }
+</style>
+
+<button class = "Amazon-button">
+  Add to cart
+</button>
