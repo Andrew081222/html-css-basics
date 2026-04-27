@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <style>
+      .stretch{
+        border: none;
+        background-color: green;
+        color: white;
+        cursor: pointer;
+        box-shadow: 2px 2px 5px rgb(0,0,0,0.5);
+        transition: box-shadow 0.2s,margin-left 0.15s,margin-top 0.15s;
+      }
+      .stretch:active{
+          box-shadow: none;
+          margin-left: 2px;
+          margin-top: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <button class="stretch">Stretch</button>
+  </body>
+</html>
