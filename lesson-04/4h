@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <style>
+      .back-button{
+        cursor: pointer;
+        padding: 8 6 8 6;
+        margin-right: 10px;
+      }
+      a{
+        margin-right: 5px;
+      }
+      .next-button{
+        cursor: pointer;
+        padding: 8 6 8 6;
+      }
+    </style>
+  </head>
+  <body>
+    <button class="back-button">Back</button>
+    <a href="">1</a>
+    <a href="">2</a>
+    <a href="">3</a>
+    <a href="">4</a>
+    <a href="" style="margin-right:10px">5</a>
+    <button class="next-button">Next</button>
+  </body>
+</html>
