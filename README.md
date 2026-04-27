@@ -1,2 +1,2 @@
 # html-css-basics
-Hi guys! I'm learning html and css. This repository will be treated as my leaning milestones across a set of collections for different exercises (Provided by SuperSimple Dev) and projects.
+Hi guys! I'm learning html and css. This repository will be treated as my learning milestones across a set of collections for different exercises (Provided by SuperSimple Dev) and projects.
