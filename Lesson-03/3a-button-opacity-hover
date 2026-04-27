@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <style>
+      .request-button{
+        height: 40px;
+        width: 120px;
+        border: none;
+        background-color: black;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+        transition: opacity 0.2s;
+      }
+      .request-button:hover{
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <button class="request-button">Request now</button>
+  </body>
+</html>
