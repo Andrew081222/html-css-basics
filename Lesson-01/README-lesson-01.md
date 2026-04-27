@@ -5,9 +5,10 @@ This folder contains my completed exercises from **Lesson 01** of the *SuperSimp
 ## What I learned
 - Creating basic HTML structure
 - Using core HTML elements:
-  - `<button>` for buttons
+  - `<button>` for creating buttons
   - `<p>` for text (paragraphs)
   - `<a>` for clickable links
+  - `<a href="">` for assigning link for a text
 
 ## Exercises included
 - **1a — Single button** (`1a-button.html`)
@@ -26,5 +27,5 @@ Course: SuperSimpleDev — HTML & CSS Full Course
 YouTube link: https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 ## Notes / Next step
-After completing more lessons, I will start building mini-projects that combine these fundamentals with CSS styling and layout techniques.
-``
+After completing more lessons, I will start building mini-projects that combine these fundamentals with CSS styling and layout techniques. (Starting from lesson-05)
+
